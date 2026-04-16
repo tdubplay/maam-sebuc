@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 data = {
-    "Name": ["CJ", "Lance", "Angel", "Nike", "Rodito", "Jham"],
+    "Name": ["Hans", "Regine", "Boy Tapang", "GArat", "RAtskie", "Boy"],
     "Age": [22, 23, 21, 23, 23, 22],
     "Salary": [30000, 32000, 31000, 30000, 30000, 500000]
 }
